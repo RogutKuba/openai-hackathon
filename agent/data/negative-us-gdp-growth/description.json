@@ -1,0 +1,21 @@
+{
+  "seriesTicker": "GDPUSMIN",
+  "seriesTitle": "Negative US GDP growth",
+  "events": [
+    {
+      "ticker": "GDPUSMIN-Q2Q42022",
+      "title": "Negative US GDP growth, Q2 2022 - Q4 2022?",
+      "markets": [
+        {
+          "ticker": "GDPUSMIN-Q2Q42022-T0",
+          "description": "If any quarter in Q2 2022 - Q4 2022 has a (seasonally adjusted at annual rates) real GDP growth rate below 0% according to the BEA, then the market resolves to Yes.",
+          "market_type": "binary",
+          "yes_bid": 1,
+          "yes_ask": 70,
+          "no_bid": 30,
+          "no_ask": 99
+        }
+      ]
+    }
+  ]
+}

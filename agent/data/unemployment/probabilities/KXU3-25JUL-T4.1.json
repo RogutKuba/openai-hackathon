@@ -1,0 +1,14 @@
+{
+  "ticker": "KXU3-25JUL-T4.1",
+  "description": "",
+  "market_type": "binary",
+  "yes_bid": 0,
+  "yes_ask": 0,
+  "no_bid": 100,
+  "no_ask": 100,
+  "probability": {
+    "yesProbability": 50,
+    "noProbability": 50,
+    "reasoning": "I am unable to access or interpret the contents of the analysis reports because they appear as '[object Object]' without any specific information or evidence provided. Without access to concrete evidence or detailed analysis, I cannot reasonably favor either outcome. Therefore, I assign a neutral estimate of 50% to both 'yes' and 'no' probabilities, acknowledging the absence of meaningful data to inform a more precise assessment. If you provide the full text or details of the analysis reports, I can offer a more informed probability breakdown."
+  }
+}

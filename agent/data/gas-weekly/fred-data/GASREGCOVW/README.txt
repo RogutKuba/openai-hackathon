@@ -1,0 +1,39 @@
+-------------------------------------------------------------------
+Series ID: GASREGCOVW
+Archival Federal Reserve Economic Data, Federal Reserve Bank of St.
+Louis
+Link: https://alfred.stlouisfed.org/series?seid=GASREGCOVW
+Help: https://alfred.stlouisfed.org/help
+This data may be copyrighted. Please refer to the Terms of Use:
+https://fred.stlouisfed.org/legal#fred-terms-faq
+Output Format: Observations by Real-Time Period
+File Created: 2025-06-05 2:12 PM CDT
+-------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------  ---------------  -------------
+Title                                                                                   Real-Time Start  Real-Time End
+US Regular Conventional Gas Price                                                       2025-06-03       2025-06-05
+Source
+U.S. Energy Information Administration                                                  2025-06-03       2025-06-05
+Release
+Gasoline and Diesel Fuel Update                                                         2025-06-03       2025-06-05
+Units
+Dollars per Gallon                                                                      2025-06-03       2025-06-05
+Frequency
+Weekly                                                                                  2025-06-03       2025-06-05
+Seasonal Adjustment
+Not Seasonally Adjusted                                                                 2025-06-03       2025-06-05
+Notes
+Weighted average based on sampling of approximately 900 retail                          2025-06-03       2025-06-05
+outlets, 8:00AM Monday. The price represents self-service unless only
+full-service is available and includes all taxes. See
+(http://www.eia.doe.gov/oil_gas/petroleum/data_publications/wrgp/mogas_home_page.html)
+for further definitions. All Formulations includes both conventional
+gasoline and reformulated gasoline.
+--------------------------------------------------------------------------------------  ---------------  -------------
+
+Vintage Dates Specified:
+----------
+2025-06-05
+----------
+

@@ -1,0 +1,21 @@
+{
+  "seriesTicker": "HALFTRILLIONAIRE",
+  "seriesTitle": "Half Trillionaire",
+  "events": [
+    {
+      "ticker": "HALFTRILLIONAIRE-Q2Q42022",
+      "title": "Half Trillionaire, Q2 2022 - Q4 2022?",
+      "markets": [
+        {
+          "ticker": "HALFTRILLIONAIRE-Q2Q42022-T0",
+          "description": "If the net worth of the richest person in the world is at least $500 billion, then the market resolves to Yes.",
+          "market_type": "binary",
+          "yes_bid": 1,
+          "yes_ask": 70,
+          "no_bid": 30,
+          "no_ask": 99
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "KXCPIYOY-25JUL-T2.4",
+  "description": "",
+  "market_type": "binary",
+  "yes_bid": 0,
+  "yes_ask": 0,
+  "no_bid": 100,
+  "no_ask": 100,
+  "probability": {
+    "yesProbability": 50,
+    "noProbability": 50,
+    "reasoning": "I am unable to analyze the reports because the content provided for the 'Analysis Reports' is '[object Object]' and does not contain any textual or numerical evidence. Without the actual content of the reports, I cannot assess supporting or opposing evidence, nor can I evaluate the strength or reliability of data sources. As a result, I must conservatively assign an even 50/50 probability split for 'yes' and 'no' outcomes, pending the availability of the actual reports for review."
+  }
+}

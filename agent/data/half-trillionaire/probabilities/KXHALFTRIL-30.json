@@ -1,0 +1,14 @@
+{
+  "ticker": "KXHALFTRIL-30",
+  "description": "",
+  "market_type": "binary",
+  "yes_bid": 96,
+  "yes_ask": 98,
+  "no_bid": 2,
+  "no_ask": 4,
+  "probability": {
+    "yesProbability": 50,
+    "noProbability": 50,
+    "reasoning": "I do not have access to the content of the analysis reports; they were referenced as '[object Object]' and did not contain extractable information. Therefore, I am forced to assign neutral probabilities (50% yes, 50% no) due to insufficient evidence. If further details about the reports are provided, I can offer a more informed and accurate evaluation based on the actual contents."
+  }
+}

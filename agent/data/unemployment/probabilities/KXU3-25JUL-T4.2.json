@@ -1,0 +1,14 @@
+{
+  "ticker": "KXU3-25JUL-T4.2",
+  "description": "",
+  "market_type": "binary",
+  "yes_bid": 0,
+  "yes_ask": 0,
+  "no_bid": 100,
+  "no_ask": 100,
+  "probability": {
+    "yesProbability": 50,
+    "noProbability": 50,
+    "reasoning": "The analysis reports referenced ([object Object]) were not included or are not visible, so I do not have access to the underlying data or arguments. Without any concrete evidence from the provided reports, I cannot assign any informed, evidence-based probability to the 'yes' or 'no' outcome. In this case, the most conservative and methodologically sound approach is to assign a 50% probability to both outcomes, reflecting complete uncertainty in the absence of specific data."
+  }
+}

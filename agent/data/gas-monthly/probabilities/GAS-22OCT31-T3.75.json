@@ -1,0 +1,14 @@
+{
+  "ticker": "GAS-22OCT31-T3.75",
+  "description": "",
+  "market_type": "binary",
+  "yes_bid": 0,
+  "yes_ask": 100,
+  "no_bid": 0,
+  "no_ask": 100,
+  "probability": {
+    "yesProbability": 99,
+    "noProbability": 1,
+    "reasoning": "The market outcome concerns whether the U.S. daily average gasoline price for regular gasoline on October 31, 2022, was at or below $3.75 per gallon (since the market code is GAS-22OCT31-T3.75, it is standard for such markets to resolve \"yes\" if the price is less than or equal to $3.75, and \"no\" otherwise). The provided report states, using FRED data, that the price on October 31, 2022, was $3.742 per gallon. This value is below the $3.75 threshold by 0.008, which is a small but unambiguous margin. The report's data are sourced from FRED, a highly reliable and widely recognized repository for such statistics. Furthermore, the report tracks the weekly price data leading up to October 31, 2022, showing a consistent trend and no late-breaking shocks that would undermine its credibility. There is no information to suggest data errors or contrary findings; thus, there is a very high probability that the market should resolve YES. Barring an undisclosed data revision or recording anomaly (which is highly unlikely given the stability of FRED's historical data releases), the chance of NO is negligible."
+  }
+}

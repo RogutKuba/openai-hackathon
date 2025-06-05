@@ -1,0 +1,14 @@
+{
+  "ticker": "KXCPIYOY-25JUL-T2.7",
+  "description": "",
+  "market_type": "binary",
+  "yes_bid": 0,
+  "yes_ask": 0,
+  "no_bid": 100,
+  "no_ask": 100,
+  "probability": {
+    "yesProbability": 50,
+    "noProbability": 50,
+    "reasoning": "The provided analysis reports are not accessible ('[object Object]'), so there is no concrete evidence available to base a well-founded probability assessment. In the absence of relevant data or analysis—such as historical CPI trends, economic forecasts, or expert analysis—the only justifiable conservative estimate is a 50/50 probability. If actual report contents were available, these could substantially shift the assigned probabilities based on their data quality and conclusions."
+  }
+}

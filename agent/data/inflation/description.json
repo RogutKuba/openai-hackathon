@@ -1,0 +1,21 @@
+{
+  "seriesTicker": "CPIUSMIN",
+  "seriesTitle": "Inflation",
+  "events": [
+    {
+      "ticker": "CPIUSMIN-Q2Q42022",
+      "title": "Inflation, Q2 2022 - Q4 2022?",
+      "markets": [
+        {
+          "ticker": "CPIUSMIN-Q2Q42022-T0",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 1,
+          "yes_ask": 70,
+          "no_bid": 30,
+          "no_ask": 99
+        }
+      ]
+    }
+  ]
+}

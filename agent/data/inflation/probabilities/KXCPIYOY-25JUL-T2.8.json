@@ -1,0 +1,14 @@
+{
+  "ticker": "KXCPIYOY-25JUL-T2.8",
+  "description": "",
+  "market_type": "binary",
+  "yes_bid": 0,
+  "yes_ask": 0,
+  "no_bid": 100,
+  "no_ask": 100,
+  "probability": {
+    "yesProbability": 50,
+    "noProbability": 50,
+    "reasoning": "Unfortunately, the contents of the analysis reports ('[object Object]') are not accessible in the input provided. Without any concrete data from the reports to assess economic forecasts, CPI trends, or relevant macroeconomic indicators, it would not be rigorous to assign a probability other than a neutral, uninformed baseline—effectively a 50% chance for either outcome. If you can provide the actual contents of the analysis reports, I can give you a well-reasoned and evidence-based probability assessment."
+  }
+}

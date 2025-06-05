@@ -1,0 +1,14 @@
+{
+  "ticker": "GDPUSMIN-Q2Q42022-T0",
+  "description": "If any quarter in Q2 2022 - Q4 2022 has a (seasonally adjusted at annual rates) real GDP growth rate below 0% according to the BEA, then the market resolves to Yes.",
+  "market_type": "binary",
+  "yes_bid": 1,
+  "yes_ask": 70,
+  "no_bid": 30,
+  "no_ask": 99,
+  "probability": {
+    "yesProbability": 75,
+    "noProbability": 25,
+    "reasoning": "Given the context—GDPUSMIN-Q2Q42022-T0, which resolves YES if any quarter between Q2 2022 and Q4 2022 shows negative (seasonally adjusted at annual rates) real GDP growth per BEA data—it is crucial to check the latest BEA releases for these quarters.\n\nHistorically and based on the preliminary releases for 2022, we know that in Q2 2022, US real GDP declined by approximately 0.6% (SAAR), which would meet the market’s criteria for a YES resolution if this holds in the final BEA report. Q3 and Q4 projections were positive in most forecasts, but only one negative quarter is required for YES.\n\nAssuming the provided (though not fully visible) reports corroborate currently available BEA data, the chance that these numbers get revised upward so that Q2 shows positive growth is low, but not impossible—sometimes GDP revisions after the fact change direction, but such reversals are rare. The reliability of BEA's preliminary numbers is generally high.\n\nThus, given the strength of BEA's Q2 2022 numbers, unless a substantial revision occurs, the market should resolve YES. I assign a 75% probability to YES, reflecting a strong—but not absolute—confidence, based on BEA's historical accuracy and revision magnitude, and 25% to NO, in case of unusual data updates."
+  }
+}

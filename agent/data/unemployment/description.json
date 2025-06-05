@@ -1,0 +1,504 @@
+{
+  "seriesTicker": "KXU3",
+  "seriesTitle": "Unemployment",
+  "events": [
+    {
+      "ticker": "KXU3-25JUL",
+      "title": "Unemployment in July?",
+      "markets": [
+        {
+          "ticker": "KXU3-25JUL-T4.3",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25JUL-T4.2",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25JUL-T4.1",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25JUL-T4.0",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25JUL-T3.9",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25JUL-T3.8",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        }
+      ]
+    },
+    {
+      "ticker": "KXU3-25JUN",
+      "title": "Unemployment in June?",
+      "markets": [
+        {
+          "ticker": "KXU3-25JUN-T4.5",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25JUN-T4.4",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25JUN-T4.3",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25JUN-T4.2",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25JUN-T4.1",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25JUN-T4.0",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        }
+      ]
+    },
+    {
+      "ticker": "KXU3-25MAY",
+      "title": "Unemployment in May?",
+      "markets": [
+        {
+          "ticker": "KXU3-25MAY-T4.3",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25MAY-T4.2",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25MAY-T4.1",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25MAY-T4.0",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25MAY-T3.9",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25MAY-T3.8",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 100
+        }
+      ]
+    },
+    {
+      "ticker": "KXU3-25APR",
+      "title": "Unemployment in April?",
+      "markets": [
+        {
+          "ticker": "KXU3-25APR-T4.5",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25APR-T4.4",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25APR-T4.3",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25APR-T4.2",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25APR-T4.1",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25APR-T4.0",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25APR-T3.9",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25APR-T3.8",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 100
+        }
+      ]
+    },
+    {
+      "ticker": "KXU3-25MAR",
+      "title": "Unemployment in March?",
+      "markets": [
+        {
+          "ticker": "KXU3-25MAR-T4.3",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25MAR-T4.2",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25MAR-T4.1",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25MAR-T4.0",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25MAR-T3.9",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25MAR-T3.8",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 100
+        }
+      ]
+    },
+    {
+      "ticker": "KXU3-25FEB",
+      "title": "Unemployment in February?",
+      "markets": [
+        {
+          "ticker": "KXU3-25FEB-T4.3",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25FEB-T4.2",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25FEB-T4.1",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25FEB-T4.0",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25FEB-T3.9",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "KXU3-25FEB-T3.8",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        }
+      ]
+    },
+    {
+      "ticker": "KXU3-25JAN",
+      "title": "Unemployment in January?",
+      "markets": [
+        {
+          "ticker": "KXU3-25JAN-T4.3",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 26,
+          "yes_ask": 36,
+          "no_bid": 64,
+          "no_ask": 74
+        },
+        {
+          "ticker": "KXU3-25JAN-T4.2",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 57,
+          "yes_ask": 67,
+          "no_bid": 33,
+          "no_ask": 43
+        },
+        {
+          "ticker": "KXU3-25JAN-T4.1",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 79,
+          "yes_ask": 89,
+          "no_bid": 11,
+          "no_ask": 21
+        },
+        {
+          "ticker": "KXU3-25JAN-T4.0",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 89,
+          "yes_ask": 99,
+          "no_bid": 1,
+          "no_ask": 11
+        },
+        {
+          "ticker": "KXU3-25JAN-T3.9",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 91,
+          "yes_ask": 99,
+          "no_bid": 1,
+          "no_ask": 9
+        },
+        {
+          "ticker": "KXU3-25JAN-T3.8",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 93,
+          "yes_ask": 99,
+          "no_bid": 1,
+          "no_ask": 7
+        }
+      ]
+    },
+    {
+      "ticker": "KXU3-24DEC",
+      "title": "Unemployment in December?",
+      "markets": [
+        {
+          "ticker": "KXU3-24DEC-T4.3",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 14,
+          "yes_ask": 18,
+          "no_bid": 82,
+          "no_ask": 86
+        },
+        {
+          "ticker": "KXU3-24DEC-T4.2",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 45,
+          "yes_ask": 52,
+          "no_bid": 48,
+          "no_ask": 55
+        },
+        {
+          "ticker": "KXU3-24DEC-T4.1",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 81,
+          "yes_ask": 87,
+          "no_bid": 13,
+          "no_ask": 19
+        },
+        {
+          "ticker": "KXU3-24DEC-T4.0",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 97,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 3
+        },
+        {
+          "ticker": "KXU3-24DEC-T3.9",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 99,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 1
+        },
+        {
+          "ticker": "KXU3-24DEC-T3.8",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 99,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 1
+        }
+      ]
+    }
+  ]
+}

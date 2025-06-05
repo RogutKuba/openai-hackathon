@@ -1,0 +1,14 @@
+{
+  "ticker": "KXHALFTRIL-27",
+  "description": "",
+  "market_type": "binary",
+  "yes_bid": 75,
+  "yes_ask": 79,
+  "no_bid": 21,
+  "no_ask": 25,
+  "probability": {
+    "yesProbability": 50,
+    "noProbability": 50,
+    "reasoning": "The provided analysis reports are not accessible ('[object Object]'), so I am unable to review or extract any concrete evidence from them. Without specific information or data to analyze, it is not possible to derive an informed probability for the market outcome. Therefore, the most conservative and neutral assignment is 50% for both 'yes' and 'no' outcomes, reflecting a state of complete uncertainty and lack of evidence on either side."
+  }
+}

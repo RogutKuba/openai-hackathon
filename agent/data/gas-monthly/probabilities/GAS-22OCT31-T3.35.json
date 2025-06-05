@@ -1,0 +1,14 @@
+{
+  "ticker": "GAS-22OCT31-T3.35",
+  "description": "",
+  "market_type": "binary",
+  "yes_bid": 0,
+  "yes_ask": 100,
+  "no_bid": 0,
+  "no_ask": 100,
+  "probability": {
+    "yesProbability": 0,
+    "noProbability": 100,
+    "reasoning": "The market in question appears to resolve based on whether the U.S. average retail gasoline price on October 31, 2022, was less than or equal to $3.35 per gallon (based on the code 'GAS-22OCT31-T3.35'). The official figure provided in the analysis, sourced from the authoritative FRED database, is $3.742 per gallon for that date. The entire sequence of data in the weeks leading up to October 31 also shows prices well above $3.35 per gallon, with no reports or evidence of a sudden drop below that threshold. Since the actual price on October 31 was $3.742 per gallon, the probability that the market outcome is 'yes' (price was at or below $3.35) is 0%, and the probability of 'no' (price was above $3.35) is 100%. This conclusion is based on clear, reliable, and direct evidence."
+  }
+}

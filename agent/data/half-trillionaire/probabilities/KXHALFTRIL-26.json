@@ -1,0 +1,14 @@
+{
+  "ticker": "KXHALFTRIL-26",
+  "description": "",
+  "market_type": "binary",
+  "yes_bid": 57,
+  "yes_ask": 62,
+  "no_bid": 38,
+  "no_ask": 43,
+  "probability": {
+    "yesProbability": 50,
+    "noProbability": 50,
+    "reasoning": "I am unable to access or interpret the information in the analysis reports, as they are each listed as '[object Object]' rather than containing their actual content. Without concrete evidence, supporting data, or reasoning from the reports, I cannot make a meaningful or evidence-based probability assignment. As such, the most neutral position is to assign a 50% probability to both 'yes' and 'no' as a placeholder, while noting that actual probabilities would depend entirely on the details and reliability of the information contained in the reports."
+  }
+}

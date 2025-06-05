@@ -1,0 +1,21 @@
+{
+  "seriesTicker": "KXFEDMEET",
+  "seriesTitle": "Fed emergency meeting",
+  "events": [
+    {
+      "ticker": "KXFEDMEET-25",
+      "title": "Will the Fed have an emergency meeting in 2025?",
+      "markets": [
+        {
+          "ticker": "KXFEDMEET-25-JAN01",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 18,
+          "yes_ask": 22,
+          "no_bid": 78,
+          "no_ask": 82
+        }
+      ]
+    }
+  ]
+}

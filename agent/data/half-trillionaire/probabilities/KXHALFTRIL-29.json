@@ -1,0 +1,14 @@
+{
+  "ticker": "KXHALFTRIL-29",
+  "description": "",
+  "market_type": "binary",
+  "yes_bid": 92,
+  "yes_ask": 95,
+  "no_bid": 5,
+  "no_ask": 8,
+  "probability": {
+    "yesProbability": 50,
+    "noProbability": 50,
+    "reasoning": "I cannot directly interpret the 'Analysis Reports' as they appear as '[object Object]' rather than providing actual, readable data. Without access to specific evidence, details, or arguments from these reports, I must default to a neutral estimate. Therefore, I assign a 50% probability to both 'yes' and 'no' outcomes. For a more accurate assessment, I would need the actual content of the analysis reports to weigh the supporting and opposing evidence properly."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "GAS-22OCT31-T3.95",
+  "description": "",
+  "market_type": "binary",
+  "yes_bid": 0,
+  "yes_ask": 100,
+  "no_bid": 0,
+  "no_ask": 100,
+  "probability": {
+    "yesProbability": 0,
+    "noProbability": 100,
+    "reasoning": "The market (GAS-22OCT31-T3.95) appears to be based on whether the U.S. daily average gasoline price on October 31, 2022, meets or exceeds $3.95 per gallon. The report gives a clear, authoritative source (FRED GASREGW) stating the official price for regular gasoline on that date was $3.742 per gallon, which is well below the $3.95 threshold. The underlying data shows stabilization in the $3.65–$3.91 range throughout September and October, and specifically a decrease into the $3.74 range by October 31. With the last observed price ($3.742) being significantly under the market's target price ($3.95), and the trend in the weeks leading up to October 31 showing no upward movement, the evidence is concrete and robust. Thus, there is virtually no chance that the outcome is 'yes' and a 100% probability that it is 'no.'"
+  }
+}

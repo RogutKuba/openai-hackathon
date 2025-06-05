@@ -1,0 +1,14 @@
+{
+  "ticker": "KXCPIYOY-25JUL-T3.0",
+  "description": "",
+  "market_type": "binary",
+  "yes_bid": 0,
+  "yes_ask": 0,
+  "no_bid": 100,
+  "no_ask": 100,
+  "probability": {
+    "yesProbability": 50,
+    "noProbability": 50,
+    "reasoning": "I am unable to see the content of the analysis reports, as they appear as [object Object] and lack any concrete data or analysis. Without specific information about economic indicators, historical trends, or expert forecasts, I cannot assign a data-driven probability to the 'yes' or 'no' outcome for the KXCPIYOY-25JUL-T3.0 market. In this absence of evidence, I conservatively assign an even 50% probability to both outcomes, as there is no basis to favor one over the other."
+  }
+}

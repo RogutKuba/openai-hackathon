@@ -1,0 +1,14 @@
+{
+  "ticker": "KXCPIYOY-25JUL-T3.1",
+  "description": "",
+  "market_type": "binary",
+  "yes_bid": 0,
+  "yes_ask": 0,
+  "no_bid": 100,
+  "no_ask": 100,
+  "probability": {
+    "yesProbability": 50,
+    "noProbability": 50,
+    "reasoning": "I was not provided with any readable or specific analysis reports (the only evidence provided is '[object Object]'), so I cannot directly evaluate the probability of the specified market outcome based on evidence. Without access to the actual contents of the analysis reports, it is impossible to quantitatively weigh supporting or opposing evidence. Therefore, the most conservative and logically consistent response is to assign a neutral probability of 50% to both 'yes' and 'no' outcomes until actual data is available for analysis. Please provide the actual analysis contents for a more informed probability estimate."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "KXHALFTRIL-28",
+  "description": "",
+  "market_type": "binary",
+  "yes_bid": 84,
+  "yes_ask": 88,
+  "no_bid": 12,
+  "no_ask": 16,
+  "probability": {
+    "yesProbability": 50,
+    "noProbability": 50,
+    "reasoning": "I am unable to see the actual content of the analysis reports because they are shown as '[object Object]'. Without access to the concrete content of these reports—such as data, arguments, or expert analysis—I cannot evaluate the strength, reliability, or relevance of the evidence presented. As a conservative and neutral approach in the absence of information, I must assign 50% probability to both ('yes' and 'no') outcomes. If you provide the specific content of the reports, I can reassess and offer a more precise and evidence-based probability estimate."
+  }
+}

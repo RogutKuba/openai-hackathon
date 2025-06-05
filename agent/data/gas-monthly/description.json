@@ -1,0 +1,21 @@
+{
+  "seriesTicker": "GDPUSMIN",
+  "seriesTitle": "Gas Monthly",
+  "events": [
+    {
+      "ticker": "GASMONTHLY-Q2Q42022",
+      "title": "Gas Monthly, Q2 2022 - Q4 2022?",
+      "markets": [
+        {
+          "ticker": "GASMONTHLY-Q2Q42022-T0",
+          "description": "",
+          "market_type": "binary",
+          "yes_bid": 1,
+          "yes_ask": 70,
+          "no_bid": 30,
+          "no_ask": 99
+        }
+      ]
+    }
+  ]
+}

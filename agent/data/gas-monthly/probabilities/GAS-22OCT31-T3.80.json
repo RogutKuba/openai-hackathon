@@ -1,0 +1,14 @@
+{
+  "ticker": "GAS-22OCT31-T3.80",
+  "description": "",
+  "market_type": "binary",
+  "yes_bid": 0,
+  "yes_ask": 100,
+  "no_bid": 0,
+  "no_ask": 100,
+  "probability": {
+    "yesProbability": 99.5,
+    "noProbability": 0.5,
+    "reasoning": "The market outcome in question is whether the average U.S. gasoline price on October 31, 2022, was at or above $3.80/gallon (GAS-22OCT31-T3.80). The provided executive summary and detailed table indicate the official price was $3.742 per gallon, as sourced directly from the FRED (Federal Reserve Economic Data) weekly series. The trend table shows weekly prices for the months prior, with October 31’s value clearly below the $3.80 threshold. The report also mentions that after mid-September, prices stabilized in the $3.70–$3.90 range, and specifically in the low-to-mid $3.70s and $3.80s in late October. The absence of reported data anomalies or later revisions means there is virtually no uncertainty about the price being finalized below $3.80. The data is directly cited from a highly reliable, official government economic source. Therefore, the probability the outcome is 'yes' (price at or above $3.80) is extremely low (0.5%), while the probability of 'no' is extremely high (99.5%)."
+  }
+}

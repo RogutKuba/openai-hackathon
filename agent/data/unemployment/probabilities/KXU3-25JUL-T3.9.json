@@ -1,0 +1,14 @@
+{
+  "ticker": "KXU3-25JUL-T3.9",
+  "description": "",
+  "market_type": "binary",
+  "yes_bid": 0,
+  "yes_ask": 0,
+  "no_bid": 100,
+  "no_ask": 100,
+  "probability": {
+    "yesProbability": 50,
+    "noProbability": 50,
+    "reasoning": "I do not have access to the content of the analysis reports, as they are listed only as [object Object]. Without concrete data or evidence from the reports, I cannot reasonably weigh the supporting or opposing evidence for the market outcome. In the absence of substantive information, a conservative approach is to assign equal probabilities of 50% to both 'yes' and 'no' outcomes, reflecting a lack of basis for favoring either. If specific report details are provided, I can offer a far more informed and nuanced evaluation."
+  }
+}

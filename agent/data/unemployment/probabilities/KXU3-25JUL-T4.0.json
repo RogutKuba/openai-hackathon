@@ -1,0 +1,14 @@
+{
+  "ticker": "KXU3-25JUL-T4.0",
+  "description": "",
+  "market_type": "binary",
+  "yes_bid": 0,
+  "yes_ask": 0,
+  "no_bid": 100,
+  "no_ask": 100,
+  "probability": {
+    "yesProbability": 50,
+    "noProbability": 50,
+    "reasoning": "I am unable to review the specific contents of the 'Analysis Reports' because they are presented as '[object Object]' without any actual content. As such, I cannot analyze supporting or opposing evidence, weigh the reliability or relevance of sources, or draw any conclusions based on concrete evidence from the reports. Without this information, I must assign neutral probabilities: 50% for 'yes' and 50% for 'no', representing complete uncertainty in the absence of any data or analysis. Please provide the actual content of the analysis reports for a thorough and evidence-based assessment."
+  }
+}

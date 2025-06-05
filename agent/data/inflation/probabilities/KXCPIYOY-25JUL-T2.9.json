@@ -1,0 +1,14 @@
+{
+  "ticker": "KXCPIYOY-25JUL-T2.9",
+  "description": "",
+  "market_type": "binary",
+  "yes_bid": 0,
+  "yes_ask": 0,
+  "no_bid": 100,
+  "no_ask": 100,
+  "probability": {
+    "yesProbability": 50,
+    "noProbability": 50,
+    "reasoning": "I am unable to access the contents of the analysis reports as they are referenced as [object Object], which contains no concrete data or evidence. Without being able to review the actual reports, their contents, or the evidence they provide, I cannot make an informed or evidence-based assessment of this market outcome. Therefore, the only conservative and fair assignment of probability is 50% yes and 50% no, reflecting complete uncertainty with no supporting or opposing evidence available."
+  }
+}

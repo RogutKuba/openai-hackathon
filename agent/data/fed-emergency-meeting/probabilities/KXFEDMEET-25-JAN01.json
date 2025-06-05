@@ -1,0 +1,14 @@
+{
+  "ticker": "KXFEDMEET-25-JAN01",
+  "description": "",
+  "market_type": "binary",
+  "yes_bid": 18,
+  "yes_ask": 22,
+  "no_bid": 78,
+  "no_ask": 82,
+  "probability": {
+    "yesProbability": 50,
+    "noProbability": 50,
+    "reasoning": "I could not analyze the relevant evidence because the analysis reports were not provided in a readable format (they are listed as '[object Object]'). Without access to the underlying data or arguments within these reports, I am unable to weigh supporting or opposing evidence or assess the reliability of any claims. Therefore, I must remain neutral and assign equal probability to both 'yes' and 'no' outcomes, as there is no basis for a more informed judgment."
+  }
+}

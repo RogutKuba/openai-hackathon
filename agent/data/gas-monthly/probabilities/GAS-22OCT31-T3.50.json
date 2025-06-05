@@ -1,0 +1,14 @@
+{
+  "ticker": "GAS-22OCT31-T3.50",
+  "description": "",
+  "market_type": "binary",
+  "yes_bid": 0,
+  "yes_ask": 100,
+  "no_bid": 0,
+  "no_ask": 100,
+  "probability": {
+    "yesProbability": 0,
+    "noProbability": 100,
+    "reasoning": "The market outcome GAS-22OCT31-T3.50 presumably refers to whether the US daily average gasoline price on October 31, 2022, was above or equal to $3.50/gal ('Yes') or below $3.50/gal ('No'). According to the detailed analysis, the official average price on October 31, 2022, was $3.742/gal, well above $3.50/gal. There is clear, direct, and highly reliable data from the FRED database supporting this. Weekly data throughout October 2022 shows prices never approached or fell below $3.50/gal, and there is no evidence of either sharp downward movements that could have changed this in the final days of October. The report's methodology, using robust historical government data, further increases confidence in the result. Therefore, the probability that the price was at or above $3.50/gal is 100%, rendering the probability for the 'No' outcome (below $3.50) as 0%."
+  }
+}

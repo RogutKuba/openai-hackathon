@@ -1,0 +1,14 @@
+{
+  "ticker": "KXCPIYOY-25JUL-T2.5",
+  "description": "",
+  "market_type": "binary",
+  "yes_bid": 0,
+  "yes_ask": 0,
+  "no_bid": 100,
+  "no_ask": 100,
+  "probability": {
+    "yesProbability": 50,
+    "noProbability": 50,
+    "reasoning": "Unfortunately, the analysis reports you referenced were not included or rendered correctly (they appear as [object Object]). Without access to the specific evidence and data presented in these reports, I cannot provide a well-founded probability estimate for the market outcome KXCPIYOY-25JUL-T2.5. In the absence of any supporting or opposing information, the best conservative stance is to assign equal probabilities to both outcomes until further, concrete information can be reviewed."
+  }
+}

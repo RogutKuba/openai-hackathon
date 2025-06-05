@@ -1,0 +1,14 @@
+{
+  "ticker": "KXCPIYOY-25JUL-T2.6",
+  "description": "",
+  "market_type": "binary",
+  "yes_bid": 0,
+  "yes_ask": 0,
+  "no_bid": 100,
+  "no_ask": 100,
+  "probability": {
+    "yesProbability": 50,
+    "noProbability": 50,
+    "reasoning": "It appears that the analysis reports intended to guide my assessment were not included or were improperly formatted (shown as [object Object]). Without access to the actual content of these reports, I cannot reliably assess the market outcome or weigh the supporting and opposing evidence as required. Thus, I must assign a neutral probability of 50% to both 'yes' and 'no' outcomes in the absence of specific evidence, as a conservative baseline. Please provide the actual analysis reports or more information for a more accurate evaluation."
+  }
+}

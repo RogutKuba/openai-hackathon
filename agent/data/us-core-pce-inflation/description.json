@@ -1,0 +1,240 @@
+{
+  "seriesTicker": "PCECORE",
+  "seriesTitle": "US Core PCE inflation",
+  "events": [
+    {
+      "ticker": "PCECORE-23SEP",
+      "title": "What will the rate of core PCE inflation be in September 2023?",
+      "markets": [
+        {
+          "ticker": "PCECORE-23SEP-T0.5",
+          "description": "If the (single-decimal) month-over-month percent change in the Personal Consumption Expenditures Price Index excluding food and energy is above 0.5% in September 2023 according to the Bureau of Economic Analysis, then the market resolves to Yes.",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 100
+        },
+        {
+          "ticker": "PCECORE-23SEP-T0.4",
+          "description": "If the (single-decimal) month-over-month percent change in the Personal Consumption Expenditures Price Index excluding food and energy is above 0.4% in September 2023 according to the Bureau of Economic Analysis, then the market resolves to Yes.",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 100
+        },
+        {
+          "ticker": "PCECORE-23SEP-T0.3",
+          "description": "If the (single-decimal) month-over-month percent change in the Personal Consumption Expenditures Price Index excluding food and energy is above 0.3% in September 2023 according to the Bureau of Economic Analysis, then the market resolves to Yes.",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "PCECORE-23SEP-T0.2",
+          "description": "If the (single-decimal) month-over-month percent change in the Personal Consumption Expenditures Price Index excluding food and energy is above 0.2% in September 2023 according to the Bureau of Economic Analysis, then the market resolves to Yes.",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 100
+        },
+        {
+          "ticker": "PCECORE-23SEP-T0.1",
+          "description": "If the (single-decimal) month-over-month percent change in the Personal Consumption Expenditures Price Index excluding food and energy is above 0.1% in September 2023 according to the Bureau of Economic Analysis, then the market resolves to Yes.",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 100,
+          "no_bid": 0,
+          "no_ask": 100
+        }
+      ]
+    },
+    {
+      "ticker": "PCECORE-22DEC",
+      "title": "What will the rate of core PCE inflation be in December 2022?",
+      "markets": [
+        {
+          "ticker": "PCECORE-22DEC-TN0.1",
+          "description": "If (single-decimal) Personal Consumption Expenditures Price Index excluding food and energy increases by more than -0.1% in December 2022 according to the Bureau of Economic Analysis, then the market resolves to Yes.",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "PCECORE-22DEC-T0.7",
+          "description": "If (single-decimal) Personal Consumption Expenditures Price Index excluding food and energy increases by more than 0.7% in December 2022 according to the Bureau of Economic Analysis, then the market resolves to Yes.",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "PCECORE-22DEC-T0.6",
+          "description": "If (single-decimal) Personal Consumption Expenditures Price Index excluding food and energy increases by more than 0.6% in December 2022 according to the Bureau of Economic Analysis, then the market resolves to Yes.",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "PCECORE-22DEC-T0.5",
+          "description": "If (single-decimal) Personal Consumption Expenditures Price Index excluding food and energy increases by more than 0.5% in December 2022 according to the Bureau of Economic Analysis, then the market resolves to Yes.",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "PCECORE-22DEC-T0.4",
+          "description": "If (single-decimal) Personal Consumption Expenditures Price Index excluding food and energy increases by more than 0.4% in December 2022 according to the Bureau of Economic Analysis, then the market resolves to Yes.",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "PCECORE-22DEC-T0.3",
+          "description": "If (single-decimal) Personal Consumption Expenditures Price Index excluding food and energy increases by more than 0.3% in December 2022 according to the Bureau of Economic Analysis, then the market resolves to Yes.",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "PCECORE-22DEC-T0.2",
+          "description": "If (single-decimal) Personal Consumption Expenditures Price Index excluding food and energy increases by more than 0.2% in December 2022 according to the Bureau of Economic Analysis, then the market resolves to Yes.",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "PCECORE-22DEC-T0.1",
+          "description": "If (single-decimal) Personal Consumption Expenditures Price Index excluding food and energy increases by more than 0.1% in December 2022 according to the Bureau of Economic Analysis, then the market resolves to Yes.",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "PCECORE-22DEC-T0.0",
+          "description": "If (single-decimal) Personal Consumption Expenditures Price Index excluding food and energy increases by more than 0.0% in December 2022 according to the Bureau of Economic Analysis, then the market resolves to Yes.",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        }
+      ]
+    },
+    {
+      "ticker": "PCECORE-22NOV",
+      "title": "What will the rate of core PCE inflation be in November 2022?",
+      "markets": [
+        {
+          "ticker": "PCECORE-22NOV-TN0.1",
+          "description": "If the (single-decimal) month-over-month percent change in the Personal Consumption Expenditures Price Index excluding food and energy is above -0.1% in November 2022 according to the Bureau of Economic Analysis, then the market resolves to Yes.",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "PCECORE-22NOV-T0.8",
+          "description": "If the (single-decimal) month-over-month percent change in the Personal Consumption Expenditures Price Index excluding food and energy is above 0.8% in November 2022 according to the Bureau of Economic Analysis, then the market resolves to Yes.",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "PCECORE-22NOV-T0.7",
+          "description": "If the (single-decimal) month-over-month percent change in the Personal Consumption Expenditures Price Index excluding food and energy is above 0.7% in November 2022 according to the Bureau of Economic Analysis, then the market resolves to Yes.",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "PCECORE-22NOV-T0.6",
+          "description": "If the (single-decimal) month-over-month percent change in the Personal Consumption Expenditures Price Index excluding food and energy is above 0.6% in November 2022 according to the Bureau of Economic Analysis, then the market resolves to Yes.",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "PCECORE-22NOV-T0.5",
+          "description": "If the (single-decimal) month-over-month percent change in the Personal Consumption Expenditures Price Index excluding food and energy is above 0.5% in November 2022 according to the Bureau of Economic Analysis, then the market resolves to Yes.",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "PCECORE-22NOV-T0.4",
+          "description": "If the (single-decimal) month-over-month percent change in the Personal Consumption Expenditures Price Index excluding food and energy is above 0.4% in November 2022 according to the Bureau of Economic Analysis, then the market resolves to Yes.",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "PCECORE-22NOV-T0.3",
+          "description": "If the (single-decimal) month-over-month percent change in the Personal Consumption Expenditures Price Index excluding food and energy is above 0.3% in November 2022 according to the Bureau of Economic Analysis, then the market resolves to Yes.",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "PCECORE-22NOV-T0.2",
+          "description": "If the (single-decimal) month-over-month percent change in the Personal Consumption Expenditures Price Index excluding food and energy is above 0.2% in November 2022 according to the Bureau of Economic Analysis, then the market resolves to Yes.",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "PCECORE-22NOV-T0.1",
+          "description": "If the (single-decimal) month-over-month percent change in the Personal Consumption Expenditures Price Index excluding food and energy is above 0.1% in November 2022 according to the Bureau of Economic Analysis, then the market resolves to Yes.",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        },
+        {
+          "ticker": "PCECORE-22NOV-T0.0",
+          "description": "If the (single-decimal) month-over-month percent change in the Personal Consumption Expenditures Price Index excluding food and energy is above 0.0% in November 2022 according to the Bureau of Economic Analysis, then the market resolves to Yes.",
+          "market_type": "binary",
+          "yes_bid": 0,
+          "yes_ask": 0,
+          "no_bid": 100,
+          "no_ask": 100
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "ticker": "GAS-22OCT31-T3.60",
+  "description": "",
+  "market_type": "binary",
+  "yes_bid": 0,
+  "yes_ask": 100,
+  "no_bid": 0,
+  "no_ask": 100,
+  "probability": {
+    "yesProbability": 0,
+    "noProbability": 100,
+    "reasoning": "The market outcome to evaluate is GAS-22OCT31-T3.60. Based on the report, the official U.S. average retail price for regular gasoline on October 31, 2022, was $3.742 per gallon. This price is clearly above $3.60. The report provides a detailed and reliable week-by-week breakdown from a reputable source (FRED), showing consistent prices above $3.60 throughout the period analyzed. There is no conflicting or ambiguous data—every piece of evidence confirms that the price on the specified date exceeded $3.60. Therefore, the probability that the price was $3.60 or below ('yes' outcome) is 0%, and the probability it was over $3.60 ('no' outcome) is 100%."
+  }
+}

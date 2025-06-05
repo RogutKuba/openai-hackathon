@@ -1,0 +1,14 @@
+{
+  "ticker": "KXU3-25JUL-T4.3",
+  "description": "",
+  "market_type": "binary",
+  "yes_bid": 0,
+  "yes_ask": 0,
+  "no_bid": 100,
+  "no_ask": 100,
+  "probability": {
+    "yesProbability": 50,
+    "noProbability": 50,
+    "reasoning": "The analysis reports were not actually provided—only placeholders ('[object Object]') are present—so I do not have concrete evidence or data to evaluate the probability for the market outcome KXU3-25JUL-T4.3. In the absence of any informative content, the most conservative and unbiased approach is to assign equal probabilities to both yes and no outcomes, reflecting complete uncertainty due to lack of data. Probabilities may be updated once specific and substantive reports are available."
+  }
+}
